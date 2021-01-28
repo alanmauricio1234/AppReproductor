@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/itemLista"
+        android:title="Lista"
+        android:icon="@drawable/ic_baseline_library_music_24"/>
+
+    <item android:id="@+id/itemReproductor"
+        android:title="Reproductor"
+        android:icon="@drawable/ic_musica"/>
+
+    <item android:id="@+id/itemRecomendaciones"
+        android:title="Recomendaciones"
+        android:icon="@drawable/ic_recomendacion"/>
+</menu>

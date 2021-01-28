@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "806491303063",
+    "project_id": "audicio-b2a15",
+    "storage_bucket": "audicio-b2a15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806491303063:android:649ad0877cf0b251f00dd2",
+        "android_client_info": {
+          "package_name": "mx.edu.uacm.reproductor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806491303063-o6uclnpbjsou5rprobi0f6cukq3mc841.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.edu.uacm.reproductor",
+            "certificate_hash": "e9e4619e5ab1d418283db94cdbc610b6c90b7046"
+          }
+        },
+        {
+          "client_id": "806491303063-b6ucheqepkf65hu17lpca40p5nkuj7ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcbHHKmPhqA_5G64kwAgvrAnGR-NA5kG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806491303063-b6ucheqepkf65hu17lpca40p5nkuj7ag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
